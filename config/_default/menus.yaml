@@ -1,0 +1,25 @@
+leftnav:
+- identifier: a82f8a68-143e-8691-fe35-eac0852f703b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 34622854-071f-3cf6-f005-d040e07f372a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 525fc43f-560b-3421-6094-8a3bd93e93d6
+  name: Course Notes
+  pageRef: /pages/course-notes
+  weight: 30
+- identifier: 383b3314-0d99-963a-ac76-a77dbd8a0dbf
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 40
+- identifier: 09800893-0e69-84c6-eff3-3bb84ba9d6a4
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 7c636697-67b6-b45d-2c14-bde3d6d544bc
+  name: Exams
+  pageRef: /pages/exams
+  weight: 60
